@@ -41,6 +41,5 @@ Licensed under either of Apache License, Version 2.0 or MIT license at your opti
 <div align="center">
   
   **Grow Your Bitcoin, Keep Your Keys**
-  
-  [Website](https://sova.io) • [Docs](https://docs.sova.io) • [Twitter](https://twitter.com/SovaBTC) • [Telegram](https://t.me/sova_btc)
+
 </div>
