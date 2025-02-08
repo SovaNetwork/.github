@@ -5,8 +5,9 @@
   
   ### The Open Interoperable Network for Native Bitcoin Wealth Products
 
-  [![Website](https://img.shields.io/badge/website-sova.io-bf8c40?style=for-the-badge)](https://sova.io)
-  [![Documentation](https://img.shields.io/badge/docs-view%20docs-blue?style=for-the-badge)](https://docs.sova.io)
+  [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
+  [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
+  [![Documentation](https://img.shields.io/badge/docs-view%20docs-86622d?style=for-the-badge)](https://docs.sova.io)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sova_btc)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SovaBTC)
   
@@ -23,11 +24,6 @@ Sova is a next-generation EVM network with integrated Bitcoin interoperability d
 - **Bridgeless Architecture**: Enhanced security through direct Bitcoin integration
 - **Permissionless**: Open protocol for building Bitcoin-native applications
 - **Institutional Grade**: Built for serious Bitcoin wealth products
-
-## Technical Resources
-
-1. Read our [Documentation](https://docs.sova.io)
-2. Stay up to date with our [Blog](https://blog.sova.io)
 
 ## Contributing
 
