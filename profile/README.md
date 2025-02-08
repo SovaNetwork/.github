@@ -4,10 +4,12 @@
   <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.png" alt="Sova Logo"/>
   
   ### The Open Interoperable Network for Native Bitcoin Wealth Products
-  
+
+  [![Website](https://img.shields.io/badge/website-sova.io-bf8c40?style=for-the-badge)](https://sova.io)
+  [![Documentation](https://img.shields.io/badge/docs-view%20docs-blue?style=for-the-badge)](https://docs.sova.io)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sova_btc)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SovaBTC)
-  [![Documentation](https://img.shields.io/badge/docs-view%20docs-blue?style=for-the-badge)](https://docs.sova.io)
+  
 </div>
 
 ## Overview
@@ -22,20 +24,10 @@ Sova is a next-generation EVM network with integrated Bitcoin interoperability d
 - **Permissionless**: Open protocol for building Bitcoin-native applications
 - **Institutional Grade**: Built for serious Bitcoin wealth products
 
-## Getting Started
-
-While we're preparing for our mainnet launch, you can:
+## Technical Resources
 
 1. Read our [Documentation](https://docs.sova.io)
-2. Join our [Telegram](https://t.me/sova_btc) community
-3. Follow us on [Twitter](https://twitter.com/SovaBTC)
-4. Stay tuned for developer tooling and testnet releases
-
-## Resources
-
-- [Official Website](https://sova.io)
-- [Technical Documentation](https://docs.sova.io)
-- [Blog](https://blog.sova.io)
+2. Stay up to date with our [Blog](https://blog.sova.io)
 
 ## Contributing
 
