@@ -31,26 +31,11 @@ While we're preparing for our mainnet launch, you can:
 3. Follow us on [Twitter](https://twitter.com/SovaBTC)
 4. Stay tuned for developer tooling and testnet releases
 
-## Architecture
-
-Sova's unique architecture enables:
-- Direct UTXO manipulation through smart contracts
-- Seamless integration with Bitcoin's native functionality
-- Institutional-grade security for Bitcoin wealth products
-- Programmable Bitcoin interactions without custodial risk
-
 ## Resources
 
 - [Official Website](https://sova.io)
 - [Technical Documentation](https://docs.sova.io)
 - [Blog](https://blog.sova.io)
-
-## Community
-
-Join our growing community:
-- [Telegram](https://t.me/sova_btc) - Join discussions and get support
-- [Twitter](https://twitter.com/SovaBTC) - Follow for updates
-- [GitHub](https://github.com/sovaNetwork) - Contribute to the codebase
 
 ## Contributing
 
@@ -58,16 +43,6 @@ While we're preparing for public contributions, you can:
 1. Star this repository to show your interest
 2. Join our community channels for updates
 3. Watch this space for upcoming contribution guidelines
-
-## Team
-
-Built by veterans from BitGo, BitMEX, Arcade.xyz, and Sommelier.finance, bringing deep expertise in Bitcoin infrastructure and DeFi.
-
-## Support
-
-- Technical Questions: [Documentation](https://docs.sova.io)
-- General Inquiries: [Contact Us](mailto:info@sova.io)
-- Career Opportunities: [Jobs](https://jobs.gohire.io/sova-labs-zxg9yxzs/)
 
 ## License
 
