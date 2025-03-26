@@ -27,7 +27,8 @@ Sova is a next-generation EVM network with integrated Bitcoin interoperability d
 
 ## Contributing
 
-We welcome contributions from the community! Open and issue or PR and it will be reviewed by the core team. Also, see our [Contribution Guidelines](https://docs.sova.io/developers/contributing)
+We welcome contributions from the community! Open and issue or PR and it will be reviewed by the core maintainers.
+[Contribution Guidelines](https://docs.sova.io/developers/contributing)
 
 ---
 
