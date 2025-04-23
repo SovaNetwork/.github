@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.png" alt="Sova Logo"/>
 
-  ### A Next Generation logic layer for Bitcoin
+  ## Bitcoin's Programmable Execution Environment
   
   [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
   [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
@@ -19,9 +19,8 @@ Sova is an EVM blockchain with integrated Bitcoin interoperability designed for 
 
 ### Key Features
 
-- **Native Bitcoin Integration**: Direct UTXO interaction without bridges
+- **Native Bitcoin Integration**: Direct UTXO interaction using custom precompiles
 - **EVM Compatibility**: Full support for Ethereum-style smart contracts
-- **Bridgeless Architecture**: Enhanced security through direct Bitcoin integration
 - **Permissionless**: Open protocol for building Bitcoin-native applications
 - **Institutional Grade**: Built for serious Bitcoin wealth products
 
