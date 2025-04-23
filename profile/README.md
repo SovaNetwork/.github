@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.png" alt="Sova Logo"/>
 
-  ### The Permissionless Network for Native Bitcoin Wealth Products
+  ### A Next Generation logic layer for Bitcoin
   
   [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
   [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
@@ -15,7 +15,7 @@
 
 ## Overview
 
-Sova is a next-generation EVM network with integrated Bitcoin interoperability designed for native BTC wealth products. Our bridgeless architecture allows smart contracts to use BTC UTXOs programmatically, enabling new ways for BTC-based DeFi applications.
+Sova is an EVM blockchain with integrated Bitcoin interoperability designed for native BTC wealth products. Sova's architecture allows smart contracts to use BTC UTXOs programmatically, enabling a new wave of BTC-based DeFi applications.
 
 ### Key Features
 
