@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.png" alt="Sova Logo"/>
 
-  ### Bitcoin's Trusted Execution Environment. Designed For Wealth Products.
+  ## Bitcoin's Trusted Execution Environment. Designed For Wealth Products.
   
   [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
   [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
