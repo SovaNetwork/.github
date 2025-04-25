@@ -28,11 +28,3 @@ Sova is an EVM blockchain with integrated Bitcoin interoperability designed for 
 
 We welcome contributions from the community! Open and issue or PR and it will be reviewed by the core maintainers.
 <div><a href="https://docs.sova.io/developers/contributing">Contribution Guidelines</a></div>
-
----
-
-<div align="center">
-  
-  **Grow Your Bitcoin, Keep Your Keys**
-
-</div>
