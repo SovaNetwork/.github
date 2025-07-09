@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.jpg" alt="Sova Logo"/>
 
-  ### The Open Interoperable Network for Native Bitcoin Wealth Products
+  ### Sova is the native financialization layer for Bitcoin.
   
   [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
   [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
