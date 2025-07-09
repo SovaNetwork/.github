@@ -1,7 +1,7 @@
 # Sova Network
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.png" alt="Sova Logo"/>
+  <img src="https://raw.githubusercontent.com/SovaNetwork/.github/refs/heads/main/profile/assets/sova-banner.jpg" alt="Sova Logo"/>
 
   ### The Open Interoperable Network for Native Bitcoin Wealth Products
   
