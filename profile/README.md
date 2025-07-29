@@ -5,9 +5,9 @@
 
   ## Sova is the native financialization layer for Bitcoin.
   
-  [![Website](https://img.shields.io/badge/website-sova.io-d2ae79?style=for-the-badge)](https://sova.io)
-  [![Blog](https://img.shields.io/badge/blog-blog.sova.io-bf8c40?style=for-the-badge)](https://blog.sova.io)
-  [![Documentation](https://img.shields.io/badge/docs-docs.sova.io-86622d?style=for-the-badge)](https://docs.sova.io)
+  [![Website](https://img.shields.io/badge/website-sova.io-a6e1b5?style=for-the-badge)](https://sova.io)
+  [![Blog](https://img.shields.io/badge/blog-blog.sova.io-74ad80?style=for-the-badge)](https://blog.sova.io)
+  [![Documentation](https://img.shields.io/badge/docs-docs.sova.io-4a644e?style=for-the-badge)](https://docs.sova.io)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sova_btc)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SovaBTC)
   
